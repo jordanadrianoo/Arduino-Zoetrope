@@ -23,3 +23,19 @@ void setup()
   pinMode(enablePin,OUTPUT);
   digitalWrite(enablePin,LOW);
 }
+
+void loop() 
+{
+  onOFFSwitchState = digitalRead(onOFFSwitchStateSwitchPin);
+  delay(1);
+
+  directionSwitchState = digitalRead(directionSwitchPin);
+  motorSpeed = analogRead(potPin)/4;
+
+  if(onOFFSwitchState != previousOnOFFSwitchState)
+  {
+    if(onOFFSwitchState == HIGH)
+    {
+      motorEnable=!motorEnable;
+    }
+  }

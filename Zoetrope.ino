@@ -22,6 +22,7 @@ void setup()
   pinMode(controlPin2,OUTPUT);
   pinMode(enablePin,OUTPUT);
   digitalWrite(enablePin,LOW);
+
 }
 
 void loop() 
@@ -59,3 +60,16 @@ void loop()
     digitalWrite(controlPin1,LOW);
     digitalWrite(controlPin2,HIGH);
   }
+
+  if(motorEnable==1)
+  {
+    analogWrite(enablePin,motorSpeed);
+  }
+  else
+  {
+    analogWrite(enablePin,0);
+  }
+
+  previousDirectionSwitchState = directionSwitchState;
+  previousOnOFFSwitchState = onOFFSwitchState;
+}

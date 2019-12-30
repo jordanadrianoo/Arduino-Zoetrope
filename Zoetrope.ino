@@ -39,3 +39,23 @@ void loop()
       motorEnable=!motorEnable;
     }
   }
+
+  if(directionSwitchState != previousDirectionSwitchState)
+  {
+    if(directionSwitchState == HIGH)
+    {
+      motorDirection = !motorDirection;
+    }
+  }
+
+  if(motorDirection == 1)
+  {
+    digitalWrite(controlPin1,HIGH);
+    digitalWrite(controlPin2,LOW);
+  }
+
+  else
+  {
+    digitalWrite(controlPin1,LOW);
+    digitalWrite(controlPin2,HIGH);
+  }

@@ -13,3 +13,13 @@ int previousDirectionSwitchState=0;
 int motorEnable=0;
 int motorSpeed=0;
 int motorDirection=1;
+
+void setup() 
+{
+  pinMode(directionSwitchPin,INPUT);
+  pinMode(onOFFSwitchStateSwitchPin,INPUT);
+  pinMode(controlPin1,OUTPUT);
+  pinMode(controlPin2,OUTPUT);
+  pinMode(enablePin,OUTPUT);
+  digitalWrite(enablePin,LOW);
+}

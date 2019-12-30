@@ -9,3 +9,7 @@ int onOFFSwitchState=0;
 int previousOnOFFSwitchState=0;
 int directionSwitchState=0;
 int previousDirectionSwitchState=0;
+
+int motorEnable=0;
+int motorSpeed=0;
+int motorDirection=1;

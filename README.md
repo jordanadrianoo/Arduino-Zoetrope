@@ -13,3 +13,4 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   - USB type B
   - Breadboard
   - Jumper Wires
+   - Motor (within 1.5-3.0 Volts and 4200-5700 RPM)

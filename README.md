@@ -6,3 +6,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 # Getting Started
 
   **Prerequisites:**
+  
+  **Hardware**
+  
+  - Arduino Uno
+  - USB type B
+  - Breadboard
+  - Jumper Wires

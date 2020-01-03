@@ -16,4 +16,6 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   - 9-Volt Battery
   - Motor (within 1.5-3.0 Volts and 4200-5700 RPM)
   - H-Bridge
+  - Tactile Switch Button
+  - 10 KILOHM Resistor
   

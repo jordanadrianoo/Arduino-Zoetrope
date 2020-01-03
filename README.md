@@ -14,6 +14,7 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   - Breadboard
   - Jumper Wires
   - 9-Volt Battery
+  - Batery Snap
   - Motor (within 1.5-3.0 Volts and 4200-5700 RPM)
   - H-Bridge
   - Tactile Switch Button

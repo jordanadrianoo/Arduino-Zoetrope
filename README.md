@@ -16,8 +16,8 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   - 9-Volt Battery
   - Batery Snap
   - Motor (within 1.5-3.0 Volts and 4200-5700 RPM)
-  - H-Bridge
-  - Tactile Switch Button
+  - H-Bridge  
   - Potentiometer
-  - 10 KILOHM Resistor
+  - 2x Tactile Switch Button
+  - 2x 10 KILOHM Resistor
   

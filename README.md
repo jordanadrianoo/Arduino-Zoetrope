@@ -17,5 +17,6 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   - Motor (within 1.5-3.0 Volts and 4200-5700 RPM)
   - H-Bridge
   - Tactile Switch Button
+  - Potentiometer
   - 10 KILOHM Resistor
   

@@ -49,3 +49,9 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 After downloading the [Source Code](Zoetrope.ino) and Schematics is built, connect the Arduino to the computer using the UBS type-B cord. Open the source code within the Arduino API and hit upload in the top left corner. 
 
 <img src="Project Pictures/Upload .JPG" width="300">
+
+# Sources and References
+
+ - [Arduino](https://www.arduino.cc/)
+ - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
+ 

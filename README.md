@@ -32,4 +32,4 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 
 # Arduino Schematics
 
-<img src="Project Pictures/Arduino Schematics 1.jpg" width="700" height="600">
+<img src="Project Pictures/Arduino Schematics 1.jpg" width="700" height="400">

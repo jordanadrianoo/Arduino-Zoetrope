@@ -32,4 +32,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 
 # Arduino Schematics
 
+Arduino Blueprints
+
+<img src"Project Pictures/Arduino Blueprints.jpg" width="700" height="400">
+
+Schematics without Zoetrope
+
 <img src="Project Pictures/Arduino Schematics 1.jpg" width="700" height="400">

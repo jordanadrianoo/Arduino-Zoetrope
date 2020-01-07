@@ -21,7 +21,7 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   - 2x Tactile Switch Button
   - 2x 10 KILOHM Resistor
   
-  <img src="Project Pictures/Resistor-Chart.png width="700" height="600">
+  <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
   
   **Software**
   

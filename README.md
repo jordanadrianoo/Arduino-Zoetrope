@@ -43,3 +43,9 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 **Schematics with Zoetrope**
 
 <img src="Project Pictures/Arduino Schematics 2.jpg" width="700" height="400">
+
+# uploading to the Arduino
+
+After downloading the [Source Code](Zoetrope.ino) and Schematics is built, connect the Arduino to the computer using the UBS type-B cord. Open the source code within the Arduino API and hit upload in the top left corner. 
+
+<img src="Project Pictures/Upload .JPG" width="300">

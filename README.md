@@ -42,4 +42,4 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 
 **Schematics with Zoetrope**
 
-<img src = "Project Pictures/Arduino Schematics 2.jpg" width=700" height="400">
+<img src="Project Pictures/Arduino Schematics 2.jpg" >

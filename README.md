@@ -23,6 +23,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
   
   <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
   
-  **Software**
-  
-  -
+**Software:**
+ 
+ - [Arduino API Downloads](https://www.arduino.cc/en/main/software)
+ - [Windows Installation Guide](https://www.arduino.cc/en/guide/windows)
+ - [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
+ - [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
+

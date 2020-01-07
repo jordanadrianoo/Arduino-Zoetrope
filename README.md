@@ -40,4 +40,6 @@ This arduino project is inspired by the "Arduino Projects Book" project 10 by Sc
 
 <img src="Project Pictures/Arduino Schematics 1.jpg" width="700" height="400">
 
+**Schematics with Zoetrope**
 
+<img src = "Project Pictures/Arduino Schematics 2.jpg" width=700" height="400">
